@@ -2,8 +2,8 @@ Originate Tile System
 =====================
 > A modular tile system where tiles can be arranged in seemingly endless combinations. Still in beta.
 
-## Tutorial
-____
+Tutorial
+--------
 #### Load in files
 Copy the animations.css, animations.js, and tiles.css into your project directory
 
