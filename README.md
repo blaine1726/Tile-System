@@ -9,18 +9,18 @@ Copy the animations.css, animations.js, and tiles.css into your project director
 
 An example of using the tile system can be found in the tiles.html file
 
-#### Usage
+### Usage
 ____
 
 > All tiles need to be wrapped in a tile-container
 
-##### Rows
+#### Rows
 
 > Use the following css classes
 
 Outer tile element
 * `main-tile`
-** All tiles need to have this class
+  * All tiles need to have this class
 * All tiles need to have one of the following classes
   * `tile-fourth`
   * `tile-third`
@@ -33,3 +33,9 @@ Outer tile element
 
 
 ##### Columns
+> Wrap element sin a column to make them of height 2 instead of height 1
+* `column-half`
+* `column-third`
+* `column-two-thirds`
+
+>Column fourth looked kind of ridiculous, so I didn't add it in
