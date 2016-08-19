@@ -18,14 +18,14 @@ Outer tile element
 * `main-tile`
 ** All tiles need to have this class
 * All tiles need to have one of the following classes
-** `tile-fourth`
-** `tile-third`
-** `tile-half`
-** `tile-two-thirds`
-** `tile-three-fourths`
-** `tile-full`
-** `tile-tall`
-*** Only to be used with columns
+  * `tile-fourth`
+  * `tile-third`
+  * `tile-half`
+  * `tile-two-thirds`
+  * `tile-three-fourths`
+  * `tile-full`
+  * `tile-tall`
+    * Only to be used with columns
 
 
 ##### Columns
