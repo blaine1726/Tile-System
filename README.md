@@ -14,6 +14,7 @@ ____
 > All tiles need to be wrapped in a tile-container
 ##### Rows
 > Use the following css classes
+
 Outer tile element
 * `main-tile`
 ** All tiles need to have this class
