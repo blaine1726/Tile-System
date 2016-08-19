@@ -34,6 +34,7 @@ Outer tile element
 
 ##### Columns
 > Wrap element sin a column to make them of height 2 instead of height 1
+
 * `column-half`
 * `column-third`
 * `column-two-thirds`
